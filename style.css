@@ -1,0 +1,33 @@
+h3{
+    color: red;
+}
+
+img{
+    width: 80px;
+}
+
+.test_image_and_result{
+    background-color: grey;
+    border-radius: 20px;
+    width: 1950px;
+}
+
+.image_responsive{
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.image{
+    height: 600px;
+    width: 400px;
+}
+
+.image_style{
+    width: 600px;
+}
+
+.image_style1{
+    width: 600px;
+}
+
